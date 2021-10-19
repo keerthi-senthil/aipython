@@ -14,7 +14,7 @@ import pytz
 
 # Define all the constants
 time_interval = 10 # (in seconds) Specify the frequency of code execution
-PINCODE = "600001"
+PINCODE = "600010"
 
 tele_auth_token = "2060017464:AAHWaK9FZ0btxWsA9m5Qv2sUYOMWxE_fTMo" # Authentication token provided by Telegram bot
 tel_group_id = "vaccine_notifiertn"          # Telegram group name
